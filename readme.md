@@ -11,9 +11,9 @@ https://9000-firebase-studio-1754721510258.cluster-htdgsbmflbdmov5xrjithceibm.cl
 
 
 ### Team Members
-- Team Lead: [Sayana V K] - [Kannur University,MAngattuparamba Campus]
+-Member 1: [Sayana V K] - [Kannur University,MAngattuparamba Campus]
 - Member 2: [Fathimathul Hiba M] - [Kannur University,MAngattuparamba Campus]
-- Member 3: [Name] - [College]
+
 
 ### Project Description
 [It is a project that combines the functionality of a noraml alarm but it doesnot sound or beeb.Instead of alarm sound it ask random prompts or questions like:"Are you the person who slept yesterday" ]
@@ -29,8 +29,6 @@ https://9000-firebase-studio-1754721510258.cluster-htdgsbmflbdmov5xrjithceibm.cl
 For Software:
 - [html,css,javascript]
 - [react]
-- [Libraries used]
-- [firebase studio]
 
 For Hardware:
 - [List main components]
@@ -38,7 +36,7 @@ For Hardware:
 - [List tools required]
 
 ### Implementation
-For Software:
+For Software:Firebase Studio
 # Installation
 [commands]
 
