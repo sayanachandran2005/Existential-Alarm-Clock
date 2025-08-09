@@ -7,7 +7,7 @@ https://9000-firebase-studio-1754721510258.cluster-htdgsbmflbdmov5xrjithceibm.cl
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Compile and Cry]
 
 
 ### Team Members
